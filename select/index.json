@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心が星になった夜 - The night when my heart became a star",
+  "base_artist": "ざらめ",
+  "createdAt": "2025-12-29T14:39:20.619403Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心が星になった夜",
+      "artist": "ざらめ",
+      "has_synced": false,
+      "path": "select/pl_01_心が星になった夜_ざらめ.txt"
+    }
+  ]
+}
